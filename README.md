@@ -3,4 +3,6 @@ A Flask REST API integrated with a Flask SQL - Alchemy Database
 
 
 
-REST API integrated using CRUD operations and HTTP response codes making API robust and scalable.
+• Designed and developed a REST API using Python, Flask, and Flask SQL Alchemy.
+• Integrated CRUD operations to manage data stored in the database, ensuring the API is scalable and robust.
+• Utillized HTTP response codes, to ensure the API is user-friendly and accessible.
